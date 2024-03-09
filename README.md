@@ -23,7 +23,7 @@ git clone https://github.com/joeunparkdev/sparthon.git
 2. 프로젝트 디렉토리로 이동합니다:
 
 ```bash
-cd your_repository
+cd sparthon
 ```
 
 3. 필요한 Ruby gem을 설치합니다:
