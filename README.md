@@ -17,7 +17,7 @@
 1. 저장소를 클론합니다:
 
 ```bash
-git clone https://github.com/joeunparkdev/sparthon.git
+git clone https://github.com/joeunparkdev/bucket_list_using_ruby.git
 ```
 
 2. 프로젝트 디렉토리로 이동합니다:
